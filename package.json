@@ -1,0 +1,22 @@
+{
+  "name": "my-jets-practice",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbojorge/my-jets-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbojorge/my-jets-practice/issues"
+  },
+  "homepage": "https://github.com/sbojorge/my-jets-practice#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
